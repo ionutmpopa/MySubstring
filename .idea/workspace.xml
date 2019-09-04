@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7848de63-ac8e-4b99-b895-acbc69b67984" name="Default Changelist" comment="" />
+    <list default="true" id="7848de63-ac8e-4b99-b895-acbc69b67984" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MySubstring/com/iopo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MySubstring/com/iopo/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MySubstring/com/iopo/MySubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MySubstring/com/iopo/MySubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/iopo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/iopo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/iopo/MySubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/iopo/MySubstring.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +23,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1QJYj62SQTlrELhyIyAIpyAdsZO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -46,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MySubstringTest">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.iopo.Main" />
       <module name="MySubstring" />
@@ -95,8 +107,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MySubstringTest" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.MySubstringTest" />
         <item itemvalue="JUnit.MySubstringTest.mySubstring_Test9" />
       </list>
     </recent_temporary>
@@ -113,5 +125,16 @@
       <updated>1567490297742</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

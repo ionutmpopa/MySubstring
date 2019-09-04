@@ -14,6 +14,9 @@ public class Main {
 
         MySubstring mySubstring = new MySubstring();
 
+        Integer result2 = mySubstring.mySubstring(123456, 6, 1);
+
+        System.out.println(result2);
 
     }
 }
