@@ -29,7 +29,7 @@ public class MySubstringIntParamTest {
     }
 
     @Parameterized.Parameters
-    public static Collection primeNumbers() {
+    public static Collection substringParameters() {
 
         return Arrays.asList(new Object[][]{
                 {123456, 0, 1, 1},

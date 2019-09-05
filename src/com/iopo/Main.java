@@ -34,5 +34,8 @@ public class Main {
         System.out.println(result6);
         System.out.println(result7);
 
+        System.out.println(mySubstring.mySubstring("There's no way I will do that!", 4, 10));
+        System.out.println(mySubstring.mySubstring("There's no way I will do that!", -15, 11));
+
     }
 }

@@ -4,13 +4,8 @@
     <list default="true" id="7848de63-ac8e-4b99-b895-acbc69b67984" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/MySubstring/com/iopo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MySubstring/com/iopo/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MySubstring/com/iopo/MySingletonSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MySubstring/com/iopo/MySingletonSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MySubstring/com/iopo/MySubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MySubstring/com/iopo/MySubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MySubstring/com/iopo/MySubstringTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/iopo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/iopo/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/iopo/MySingletonSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/iopo/MySingletonSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/iopo/MySubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/iopo/MySubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/iopo/MySubstringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/iopo/MySubstringStrTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/iopo/MySubstringIntParamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/iopo/MySubstringIntParamTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -127,8 +122,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.MySubstringIntParamTest" />
-        <item itemvalue="JUnit.MySubstringStrTest" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.MySubstringStrTest" />
         <item itemvalue="JUnit.MySubstringStrTest.mySubstring_Test9" />
       </list>
     </recent_temporary>
