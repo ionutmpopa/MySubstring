@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7848de63-ac8e-4b99-b895-acbc69b67984" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/MySubstring/com/iopo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MySubstring/com/iopo/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MySubstring/com/iopo/MySingletonSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MySubstring/com/iopo/MySingletonSubstring.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/MySubstring/com/iopo/MySubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MySubstring/com/iopo/MySubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MySubstring/com/iopo/MySubstringTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/iopo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/iopo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/iopo/MySingletonSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/iopo/MySingletonSubstring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/iopo/MySubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/iopo/MySubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/iopo/MySubstringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/iopo/MySubstringStrTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.MySubstringIntParamTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.iopo.Main" />
       <module name="MySubstring" />
@@ -69,7 +72,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MySubstringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MySubstringIntParamTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MySubstring" />
       <extension name="coverage">
         <pattern>
@@ -78,13 +81,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.iopo" />
-      <option name="MAIN_CLASS_NAME" value="com.iopo.MySubstringTest" />
+      <option name="MAIN_CLASS_NAME" value="com.iopo.MySubstringIntParamTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MySubstringTest.mySubstring_Test9" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MySubstringStrTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MySubstring" />
       <extension name="coverage">
         <pattern>
@@ -93,7 +96,22 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.iopo" />
-      <option name="MAIN_CLASS_NAME" value="com.iopo.MySubstringTest" />
+      <option name="MAIN_CLASS_NAME" value="com.iopo.MySubstringStrTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySubstringStrTest.mySubstring_Test9" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MySubstring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iopo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.iopo" />
+      <option name="MAIN_CLASS_NAME" value="com.iopo.MySubstringStrTest" />
       <option name="METHOD_NAME" value="mySubstring_Test9" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -102,14 +120,16 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.MySubstringTest" />
-      <item itemvalue="JUnit.MySubstringTest.mySubstring_Test9" />
+      <item itemvalue="JUnit.MySubstringStrTest" />
+      <item itemvalue="JUnit.MySubstringStrTest.mySubstring_Test9" />
+      <item itemvalue="JUnit.MySubstringIntParamTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MySubstringIntParamTest" />
+        <item itemvalue="JUnit.MySubstringStrTest" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.MySubstringTest" />
-        <item itemvalue="JUnit.MySubstringTest.mySubstring_Test9" />
+        <item itemvalue="JUnit.MySubstringStrTest.mySubstring_Test9" />
       </list>
     </recent_temporary>
   </component>
