@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MySubstring">
+    <output-path>$PROJECT_DIR$/out/artifacts/MySubstring</output-path>
+    <root id="archive" name="MySubstring.jar">
+      <element id="module-output" name="MySubstring" />
+    </root>
+  </artifact>
+</component>

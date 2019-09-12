@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="MySubstring" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7848de63-ac8e-4b99-b895-acbc69b67984" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/MySubstring.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MySubstring/com/iopo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MySubstring/com/iopo/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/iopo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/iopo/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/iopo/MySubstringIntParamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/iopo/MySubstringIntParamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/iopo/MySingletonSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/iopo/MySingletonSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/iopo/MySubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/iopo/MySubstring.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -32,9 +37,10 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../junit-4.10.jar!/" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -71,7 +77,7 @@
       <module name="MySubstring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.iopo.*" />
+          <option name="PATTERN" value="com.iopo.substring.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,7 +92,7 @@
       <module name="MySubstring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.iopo.*" />
+          <option name="PATTERN" value="com.iopo.substring.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,7 +107,7 @@
       <module name="MySubstring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.iopo.*" />
+          <option name="PATTERN" value="com.iopo.substring.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,7 +152,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
