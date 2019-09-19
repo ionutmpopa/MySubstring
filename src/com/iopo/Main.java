@@ -1,5 +1,7 @@
 package com.iopo;
 
+import java.util.Scanner;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -9,12 +11,14 @@ public class Main {
 
         String result1 = mySubstringInstance.mySubstring("Australopithecus", 8, 8);
         String result = mySubstringInstance.mySubstring("Australopithecus", -8, 8);
+        String resultt = mySubstringInstance.mySubstring("Australopithecus", 8);
 
         String javaResult = "Australopithecus";
 
         System.out.println(result1);
         System.out.println(result);
         System.out.println(javaResult.substring(8, 16));
+        System.out.println(resultt);
 
         MySubstring mySubstring = new MySubstring();
 
@@ -27,6 +31,8 @@ public class Main {
         Integer result7 = mySubstring.mySubstring(123456, 2, 4);
 
 
+
+
         System.out.println(result2);
         System.out.println(result3);
         System.out.println(result4);
@@ -35,7 +41,7 @@ public class Main {
         System.out.println(result7);
 
         System.out.println(mySubstring.mySubstring("There's no way I will do that!", 4, 10));
-        System.out.println(mySubstring.mySubstring("There's no way I will do that!", -15, 11));
-
+        System.out.println(mySubstring.mySubstring("There's no way I will do that!", -15, 15));
+        System.out.println(mySubstring.mySubstring("There's no way I will do that!", -15));
     }
 }

@@ -6,7 +6,13 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7848de63-ac8e-4b99-b895-acbc69b67984" name="Default Changelist" comment="" />
+    <list default="true" id="7848de63-ac8e-4b99-b895-acbc69b67984" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MySubstring/com/iopo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MySubstring/com/iopo/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MySubstring/com/iopo/MySubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MySubstring/com/iopo/MySubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/iopo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/iopo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/iopo/MySubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/iopo/MySubstring.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +50,9 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\z003tx8n\Desktop\JavaPractice\MySubstring\src\com\iopo" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -57,7 +66,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SuiteTests">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.iopo.Main" />
       <module name="MySubstring" />
@@ -138,9 +147,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.SuiteTests" />
         <item itemvalue="JUnit.MySubstringIntParamTest" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.MySubstringStrTest" />
         <item itemvalue="JUnit.MySubstringStrTest.mySubstring_Test9" />
       </list>
@@ -164,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568267932098</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added more tests and, also, added a test suite.">
+      <created>1568268166788</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568268166788</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,6 +198,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added more substring methods and the appropriate comments." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added more substring methods and the appropriate comments." />
+    <MESSAGE value="Added more tests and, also, added a test suite." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added more tests and, also, added a test suite." />
   </component>
 </project>
